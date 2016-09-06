@@ -2,7 +2,7 @@
 
 ## STUDENTS OPEN STATA FOR THE FIRST TIME; YOU'LL NEVER GUESS WHAT THEY SAW
 
-![layout](.images/stata-layout.svg)
+![layout](./images/stata-layout.png)
 
 ## SEE THE FIRST STATA PROGRAM OF THESE FAMOUS CELEBRITIES
 
