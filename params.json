@@ -1,6 +1,6 @@
 {
-  "name": "Stata",
+  "name": "Resources for new STATA users",
   "tagline": "",
-  "body": "# NOT AN INTRODUCTION TO STATA\r\n\r\nThere are many, many online resorces which introduce you to STATA.  This is NOT another introduction.  Rather, the purpose of this presentation is to introduce some of the resources for learning STATA.\r\n\r\n# TOPICS: \r\n\r\n## [STUDENTS OPEN STATA FOR THE FIRST TIME; YOU'LL NEVER GUESS WHAT THEY SAW](./stata-layout.md)\r\n\r\n## [10 WAYS TO LEARN STATA (NUMBER 4 WILL BLOW YOU AWAY)](./how-to-learn-stata.md)\r\n\r\n## SEE THE FIRST STATA PROGRAM OF THESE FAMOUS CELEBRITIES\r\n\r\n## THE 1 THING THAT WILL CHANGE THE WAY YOU CODE IN STATA\r\n",
+  "body": "# NOT AN INTRODUCTION TO STATA\r\n\r\nThere are many, many online resorces which introduce you to STATA.  This is NOT another introduction.  Rather, the purpose of this presentation is to introduce several existing resources for learning STATA.\r\n\r\n## TOPICS: \r\n\r\n* [STUDENTS OPEN STATA FOR THE FIRST TIME; YOU'LL NEVER GUESS WHAT THEY SAW](./stata-layout.md)\r\n\r\n* [10 WAYS TO LEARN STATA (NUMBER 4 WILL BLOW YOU AWAY)](./how-to-learn-stata.md)\r\n\r\n* [SEE THE FIRST STATA PROGRAM OF THESE FAMOUS CELEBRITIES](./stata-examples.md)\r\n\r\n* [THE 1 THING THAT WILL CHANGE THE WAY YOU CODE IN STATA](./stata-do-files.md)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
