@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Resources for new STATA users
 ---
 
 # NOT AN INTRODUCTION TO STATA

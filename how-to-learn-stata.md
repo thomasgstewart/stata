@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: HOW TO LEARN STATA
+title: How to learn STATA
 
 ---
 
