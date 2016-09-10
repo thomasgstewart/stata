@@ -54,7 +54,8 @@
   font-size: 50px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 500;
+  color: #333;
   // border: 3px solid green;
 }
 
@@ -84,4 +85,13 @@
   text-align: center;
   //border: 3px solid green;
 
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+#bottom a:hover{
+  font-weight: bold;
 }
