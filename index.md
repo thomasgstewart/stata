@@ -1,8 +1,12 @@
+---
+layout: default
+---
+
 # NOT AN INTRODUCTION TO STATA
 
 There are many, many online resources which introduce you to STATA.  This is NOT another introduction.  Rather, the purpose of this presentation is to introduce several existing resources for learning STATA.
 
-## TOPICS: 
+## TOPICS:
 
 * [STUDENTS OPEN STATA FOR THE FIRST TIME; YOU'LL NEVER GUESS WHAT THEY SAW](stata-layout.html)
 
