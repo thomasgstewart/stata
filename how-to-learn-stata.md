@@ -77,6 +77,3 @@ title: How to learn STATA
    * Options are explained in greater detail after the description
    * **ALWAYS LOOK AT THE EXAMPLES**
    * Many help documents include links to YouTube help vides.  Look near the end of the documentation.
-
-   ##
-   [*BACK TO FRONT PAGE*](index.html)
