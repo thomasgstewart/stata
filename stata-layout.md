@@ -5,10 +5,19 @@ title: STATA Layout
 
 ---
 
-# TEST
+## Main STATA Window
 
-This is a test
+* [Linux](http://www.stata.com/manuals14/gsu2.pdf)
 
-## This is a test
+* [Mac](http://www.stata.com/manuals14/gsm2.pdf)
 
-Test now
+* [Windows](http://www.stata.com/manuals14/gsw2.pdf)
+
+
+## Get to know the viewer as well
+
+* [Linux](http://www.stata.com/manuals14/gsu3.pdf)
+
+* [Mac](http://www.stata.com/manuals14/gsm3.pdf)
+
+* [Windows](http://www.stata.com/manuals14/gsw3.pdf)

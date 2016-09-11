@@ -3,7 +3,14 @@ layout: default
 title: Resources for new STATA users
 ---
 
-# NOT AN INTRODUCTION TO STATA
+## HOW TO ACCESS THESE RESOURCES
+
+* Hard to remember: use direct address [thomasgstewart.github.io/stata/]{https://thomasgstewart.github.io/stata/}
+
+* Easier to remember: Google "Thomas Stewart Vanderbilt". Follow the link in the teaching section of my faculty page: [Thomas G. Stewart]{http://biostat.mc.vanderbilt.edu/ThomasStewart}
+
+
+## NOT AN INTRODUCTION TO STATA
 
 There are many, many online resources which introduce you to STATA.  This is NOT another introduction.  Rather, the purpose of this presentation is to introduce several existing resources for learning STATA.
 
@@ -15,4 +22,4 @@ There are many, many online resources which introduce you to STATA.  This is NOT
 
 * [SEE THE FIRST STATA PROGRAM OF THESE FAMOUS CELEBRITIES](stata-examples.html)
 
-* [THE 1 THING THAT WILL CHANGE THE WAY YOU CODE IN STATA](stata-do-files.html)
+* [THE ONE TOOL THAT WILL CHANGE THE WAY YOU CODE IN STATA](stata-do-files.html)
