@@ -78,4 +78,5 @@ title: How to learn STATA
    * **ALWAYS LOOK AT THE EXAMPLES**
    * Many help documents include links to YouTube help vides.  Look near the end of the documentation.
 
-## [BACK TO FRONT PAGE](index.html)
+   ##
+   [*BACK TO FRONT PAGE*](index.html)

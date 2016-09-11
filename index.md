@@ -5,10 +5,13 @@ title: Resources for new STATA users
 
 ## HOW TO ACCESS THESE RESOURCES
 
-* Hard to remember: use direct address [thomasgstewart.github.io/stata/]{https://thomasgstewart.github.io/stata/}
+* Hard to remember: use direct address [thomasgstewart.github.io/stata/](https://thomasgstewart.github.io/stata/)
 
-* Easier to remember: Google "Thomas Stewart Vanderbilt". Follow the link in the teaching section of my faculty page: [Thomas G. Stewart]{http://biostat.mc.vanderbilt.edu/ThomasStewart}
+* Easier to remember: Google "Thomas Stewart Vanderbilt". Follow the link in the teaching section of my faculty page.
 
+## CONTRIBUTE
+
+As you learn STATA, feel free to make suggestions of items to add to this resource.
 
 ## NOT AN INTRODUCTION TO STATA
 

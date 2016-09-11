@@ -20,3 +20,6 @@ Here are some dry, but informative YouTube videos I found on the .do file by Goo
 * [![Dry video](http://img.youtube.com/vi/Fowc697c8bc/0.jpg)](https://www.youtube.com/watch?v=Fowc697c8bc)
 
 * [![Dry video 2](http://img.youtube.com/vi/17TRloq237M/0.jpg)](https://www.youtube.com/watch?v=17TRloq237M)
+
+##
+[*BACK TO FRONT PAGE*](index.html)

@@ -21,3 +21,6 @@ title: STATA Layout
 * [Mac](http://www.stata.com/manuals14/gsm3.pdf)
 
 * [Windows](http://www.stata.com/manuals14/gsw3.pdf)
+
+##
+[*BACK TO FRONT PAGE*](index.html)
