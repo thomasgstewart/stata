@@ -11,7 +11,7 @@ From [Matt Shotwell's Reproducible Research Tutorial](http://biostat.mc.vanderbi
 
 ## DO FILE
 
-While not a sophisticated as the reproducible research tools of other statistical software programs, STATA does offer the DO File.  All the command for your analysis are stored in a single file so that the output can be reproduced.
+While not as sophisticated as the reproducible research tools of other statistical software programs, STATA does offer the DO File.  All the command for your analysis are stored in a single file so that the output can be reproduced.
 
 >**KEY POINT:** Every step and every command of your analysis should be recorded into a .do file.
 
